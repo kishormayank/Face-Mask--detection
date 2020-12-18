@@ -1,4 +1,4 @@
-# Face-Mask--detection
+# Mask-detection
 
 Here is the jupyter code for face mask detection project.
 The dataset was too large to be uploaded.
